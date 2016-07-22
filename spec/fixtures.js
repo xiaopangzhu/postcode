@@ -1,0 +1,32 @@
+module.exports=[
+    {digit:'0',
+     code:`||:::`
+    },
+    {digit:'1',
+     code:`:::||`
+    },
+    {digit:'2',
+     code:`::|:|`
+    },
+    {digit:'3',
+     code:`::||:`
+    },
+    {digit:'4',
+     code:`:|::|`
+    },
+    {digit:'5',
+     code:`:|:|:`
+    },
+    {digit:'6',
+     code:`:||::`
+    },
+    {digit:'7',
+     code:`|:::|`
+    },
+    {digit:'8',
+     code:`|::|:`
+    },
+    {digit:'9',
+     code:`|:|::`
+    }
+];
